@@ -1,0 +1,30 @@
+.outmenbox{
+    border: solid 1px rgb(232, 240, 186);
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(232, 240, 186) ;
+
+}
+#men1,#men2,#men3,#men4,#men5,#men6,#men7{
+    border: none;
+    outline: none;
+    background-color: rgb(232, 240, 186);
+    height: 189px;
+    width: 169px;
+  
+    
+}
+#party1,#party2{
+    height: 150px;
+    width:160px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+#menmenuname{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+

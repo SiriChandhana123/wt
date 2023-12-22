@@ -1,0 +1,26 @@
+.outwomenbox{
+    border: solid 1px rgb(240, 217, 235);
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(240, 217, 218) ;
+}
+#women1,#women2,#women3,#women4,#women5,#women6,#women7{
+    border: none;
+    outline: none;
+    background-color: rgb(240, 217, 235);
+    height: 189px;
+    width: 169px;
+}
+#party1,#party2{
+    height: 150px;
+    width:160px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+#womenmenuname{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+.outkidbox{
+    border: solid 1px rgb(214, 233, 236);
+    height: 220px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color:  rgb(214, 233, 236) ;
+}
+#kidin1,#kidin2,#kidin3,#kidin4,#kidin5,#kidin6,#kidin7{
+    border: none;
+    outline: none;
+    background-color: rgb(214, 233, 236);
+    height: 189px;
+    width: 169px;
+}
+#party1,#party2{
+    height: 150px;
+    width:160px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+#kidsmenuname{
+    text-align: center;
+    color: red;
+    font-size: 23px;
+    font-weight: bold;
+}

@@ -1,0 +1,40 @@
+#signinbox{
+    border: solid 1px black;
+    height: 800px;
+    background-image: url(img7.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 850px;
+}
+form{
+    border: none;
+    width: 440px;
+    margin-left: 70px;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-left: 10px;
+    outline: none;
+    background: 10px;
+}
+#text{
+    color:black;
+    font-size: 30px;
+}
+input[type="email"],input[type="password"] {
+    background: 10px;
+    border : solid 1px black;
+    outline: none;
+    border-radius: solid 2px white;
+    color: blue;
+    font-size: 20px;
+    width: 340px;
+}
+button a{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#forgetpassword a{
+    color:black;
+    font-size: 25px;
+}

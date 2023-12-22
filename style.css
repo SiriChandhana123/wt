@@ -1,0 +1,167 @@
+#head{
+   border: none;
+   outline: none;
+    height: 200px;
+    background-color: rgb(243, 241, 175);
+background-repeat: no-repeat;
+background-size:1600px 200px;
+text-align: right;
+
+}
+#trendhub{
+    color:black;
+    font-size: 90px;
+    text-align: center;
+    line-height: 0px;
+}
+#signup a{
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    text-decoration: none;
+   
+}
+#signin a{
+    color:black;
+    font-size:45px ;
+    text-decoration: none;
+}
+#pipe{
+    color: black;
+    font-size: 40px;
+}
+.menuouter{
+    border: none;
+    outline: none;
+    height: 190px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(243, 241, 175);
+
+}
+#menuin1,#menuin2,#menuin3,#menuin4,#menuin5,#menuin6,#menuin7,#menuin8{
+    border: none;
+    height: 153px;
+    width: 130px;
+    border-radius: 50%;
+    outline: none
+}
+#kids,#makeup,#bag,#men,#electronics,#women,#kitchen,#furniture{
+    height: 158px;
+    width: 130px;
+    border-radius: 50%;
+   
+}
+#menuname{
+    text-align: center;
+    font-size: 25px;
+    
+}
+.underbudget{
+    border: solid 1px rgb(243, 241, 175);
+    height: 250px;
+    background-color: rgb(243, 241, 175);
+    
+}
+#under99,#under199,#under299,#under399,#under499,#under49{
+    border:none;
+    outline: none;
+    height: 100px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgb(251, 168, 116);
+    line-height: 100px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+.flatout{
+    border: solid 1px rgb(243, 241, 175);
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(243, 241, 175);
+}
+#flatin1,#flatin2,#flatin3,#flatin4,#flatin5{
+    border: none;
+    outline: none;
+    height: 248px;
+    width: 180px;
+}
+#flatin1{
+    background-image: url(make4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+#flatoff1{
+    border: none;
+    outline: none;
+    height: 90px;
+    margin-top: 146px;
+    background:10px;
+    text-align: center;
+    font-size: 22px;
+    color:black;
+    font-weight: bolder;
+}
+#flatText{
+    color: black;
+    font-size: 22px;
+}
+#flatin2{
+    background-image: url(party2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+#flatin3{
+    background-image: url(tshirt1.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+    padding: 5px;
+    box-sizing: border-box;
+    
+
+}
+#flatin4{
+    background-image: url(cook2.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+#flatin5{
+    background-image: url(furniture1.jpg);
+    background-repeat: no-repeat;
+    background-size:190px 280px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+#flatin6{
+    background-image: url(electronics.jpg);
+    background-repeat: no-repeat;
+    background-size: 180px 280px;
+    padding: 5px;
+    box-sizing: border-box;
+}#flatin7{
+    background-image: url(health2.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 300px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.flat{
+    border: solid 1px rgb(243, 241, 175);
+    background-color: rgb(243, 241, 175);
+}
